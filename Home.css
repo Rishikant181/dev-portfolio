@@ -1,8 +1,8 @@
 .navbar {
-    background-color: lightsteelblue;
+    border-bottom-left-radius: 1em;
+    border-bottom-right-radius: 1em;
 }
 
 .btn {
-    background-color: aliceblue;
     border-radius: 5em;
 }
