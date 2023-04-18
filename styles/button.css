@@ -1,0 +1,10 @@
+.btn {
+	box-shadow: 0px 0px 5px lightsteelblue;
+	border-radius: 5em;
+	color: black;
+}
+
+.btn:hover {
+	box-shadow: 0px 0px 15px lightsteelblue;
+	color: black;
+}

@@ -1,7 +1,12 @@
+.card {
+	box-shadow: 0px 0px 10px lightsteelblue;
+}
+
 .card-zoom {
 	transition: transform 0.2s;
 }
 
 .card-zoom:hover {
 	transform: scale(1.05);
+	box-shadow: 0px 0px 30px lightsteelblue;
 }
