@@ -1,0 +1,15 @@
+.fa {
+	color: steelblue;
+	border-radius: 5em;
+	padding: 0.5em;
+	margin: 0;
+}
+
+.fa-zoom {
+	transition: transform 0.2s;
+}
+
+.fa:hover {
+	transform: scale(1.1);
+	box-shadow: 0px 0px 10px lightsteelblue;
+}
